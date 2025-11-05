@@ -8,7 +8,7 @@
 
 ## Live Demo (optional)
 
-(Otherwise this section can be left blank or removed.)
+https://slot-swapper-ochre.vercel.app
 
 ---
 
@@ -39,7 +39,7 @@ SlotSwapper is designed to let users swap busy calendar slots without a central 
 ## Repository
 
 > Add your public GitHub repository link here (replace the placeholder):  
-`https://github.com/<your-username>/slotswapper`
+`https://github.com/Mohdsohail7/Slot-Swapper`
 
 
 ---
